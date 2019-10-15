@@ -58,4 +58,5 @@ Matplotlib.pyplot is a collection of command style functions that make matplotli
 5. https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
 6. https://github.com/wesm/pydata-book
 7. https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
-
+8. https://matplotlib.org/
+9. http://seaborn.pydata.org/
