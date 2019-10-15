@@ -5,4 +5,4 @@
 
 ### "tipsdata.csv" format contains data which is analyzed.
 
-### tips.dataset with pandas.jpynb" it is a Jupyter notebook where I try to summarize the Data.
+### "tips.dataset with pandas.jpynb" it is a Jupyter notebook where I try to summarize the Data.
