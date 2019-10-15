@@ -28,7 +28,7 @@ The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook ico
 ```
 jupyter notebook
 ```
-This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open (taken from: [https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html]
+This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: [Jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
 
 ## Libraries used
 Imported the libaries for this project: Pandas, Numpy, Matplotlib.pyplot
