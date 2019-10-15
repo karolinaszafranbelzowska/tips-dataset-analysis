@@ -11,11 +11,13 @@ Describe Data...................................................................
 
 
 Attribute information:
-1. Sepal length in cm,
-2. Sepal width in cm,
-3. Petal length in cm,
-4. Petal width in cm,
-5. and classes: Iris Setosa, Iris Versicolour, Iris Virginica
+1. Total_bill in $,
+2. Tip in $,
+3. Sex of tipper: Female or Male,
+4. Smoker: Yes or No,
+5. Day: Monday to Sunday,
+6. Meal: Lunch or Dinner,
+7. and size.
 
 ## How to download this repository
   1. Go to GitHub
