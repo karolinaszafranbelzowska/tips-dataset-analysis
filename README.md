@@ -27,6 +27,15 @@ Attribute information:
 ## Libraries used
 Imported the libaries for this project: Pandas, Numpy, Matplotlib.pyplot
 
+Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools.
+
+NumPy is the fundamental package for scientific computing with Python
+
+Matplotlib.pyplot is a collection of command style functions that make matplotlib work like MATLAB.
+
+     import numpy as np
+     import pandas as pd
+     import matplotlib.pyplot as plt 
 
 
 
