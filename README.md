@@ -44,8 +44,8 @@ Matplotlib.pyplot is a collection of command style functions that make matplotli
      import matplotlib.pyplot as plt 
 
 
+## What each file contains:
 
+1. "tipsdata.csv" contains data in csv format.
 
-### "tipsdata.csv" contains datain csv format which is analyzed.
-
-### "tips.dataset with pandas.jpynb" contains a Jupyter notebook where I try to summarize the Data.
+2. "tips.dataset with pandas.jpynb" contains a Jupyter notebook where I try to summarize the Data.
