@@ -7,9 +7,6 @@
 This repository contains my assessment for the module "Fundamentals of Data Analysis" at GMIT.
 See here for the instructions : https://github.com/ianmcloughlin/project-2019-fundda/raw/master/project.pdf
 
-Describe Data...............................................................................................................
-
-
 Attribute information:
 1. Total_bill in $,
 2. Tip in $,
@@ -31,9 +28,7 @@ The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook ico
 ```
 jupyter notebook
 ```
-This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
-
-When started, the Jupyter Notebook App can access only files within its start-up folder (including any sub-folder). No configuration is necessary if you place your notebooks in your home folder or subfolders. Otherwise, you need to choose a Jupyter Notebook App start-up folder which will contain all the notebooks.
+This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open (taken from: [https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html]
 
 ## Libraries used
 Imported the libaries for this project: Pandas, Numpy, Matplotlib.pyplot
