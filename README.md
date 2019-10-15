@@ -49,3 +49,13 @@ Matplotlib.pyplot is a collection of command style functions that make matplotli
 1. "tipsdata.csv" contains data in csv format.
 
 2. "tips.dataset with pandas.jpynb" contains a Jupyter notebook where I try to summarize the Data.
+
+## References
+1. https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+2. https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+3. http://rstudio-pubs-static.s3.amazonaws.com/128623_507fbe51532748f29278825fceedab85.html
+4. https://github.com/mwaskom/seaborn-data
+5. https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
+6. https://github.com/wesm/pydata-book
+7. https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+
