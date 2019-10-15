@@ -1,7 +1,14 @@
+# The repository is called ***"tips-dataset-analysis"*** and analyze well-known tips dataset.  
+
 # This repository contains Assessment for the module _Fundamentals of Data Analysis._
 
+# Karolina Szafran-Belzowska, 2019-11-29
 
-## The repository is called ***"tips-dataset-analysis"*** and analyze well-known tips dataset.  
+This repository contains my assessment for the module "Fundamentals of Data Analysis" at GMIT.
+See here for the instructions : https://github.com/ianmcloughlin/project-2019-fundda/raw/master/project.pdf
+
+Describe Data...............................................................................................................
+
 
 Attribute information:
 1. Sepal length in cm,
