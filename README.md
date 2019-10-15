@@ -3,4 +3,6 @@
 
 ## The repository is called ***"tips-dataset-analysis"*** and analyze well-known tips dataset.  
 
-### "tipsdata.csv" contains data which is analyzed.
+### "tipsdata.csv" format contains data which is analyzed.
+
+### 
