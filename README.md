@@ -25,6 +25,15 @@ Attribute information:
   
 ## How to run the code
   1. Make sure you have Python installed
+  
+## How to run the Jupyter notebook
+The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
+```
+jupyter notebook
+```
+This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
+
+When started, the Jupyter Notebook App can access only files within its start-up folder (including any sub-folder). No configuration is necessary if you place your notebooks in your home folder or subfolders. Otherwise, you need to choose a Jupyter Notebook App start-up folder which will contain all the notebooks.
 
 ## Libraries used
 Imported the libaries for this project: Pandas, Numpy, Matplotlib.pyplot
