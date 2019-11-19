@@ -64,3 +64,4 @@ Matplotlib.pyplot is a collection of command style functions that make matplotli
 11. https://seaborn.pydata.org/tutorial/aesthetics.html
 12. https://towardsdatascience.com
 13. https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
+14. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html
