@@ -51,6 +51,8 @@ Matplotlib.pyplot is a collection of command style functions that make matplotli
 
 2. "tips.dataset with pandas.jpynb" contains a Jupyter notebook where I try to summarize the Data.
 
+3. "tips.jpg" contains file with Photo of TIPS.
+
 ## References
 1. https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 2. https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
