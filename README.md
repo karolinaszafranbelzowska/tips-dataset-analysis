@@ -42,6 +42,7 @@ Matplotlib.pyplot is a collection of command style functions that make matplotli
      import numpy as np
      import pandas as pd
      import matplotlib.pyplot as plt 
+     import seaborn as sns
 
 
 ## What each file contains:
