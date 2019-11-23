@@ -68,6 +68,9 @@ Matplotlib.pyplot is a collection of command style functions that make matplotli
 12. https://towardsdatascience.com
 13. https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
 14. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html
+15. https://www.geeksforgeeks.org/linear-regression-python-implementation/
+16. https://stackoverflow.com/questions/38646040/attributeerror-linearregression-object-has-no-attribute-coef
+17. 
 15. https://devarea.com/python-machine-learning-example-linear-regression/#.XdWVAdX7SUk
 16. https://ipython-books.github.io/62-creating-statistical-plots-easily-with-seaborn/
 17. https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/
