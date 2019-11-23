@@ -14,7 +14,7 @@ Attribute information:
 4. Smoker: Yes or No,
 5. Day: Monday to Sunday,
 6. Meal: Lunch or Dinner,
-7. and size.
+7. and size of the table.
 
 ## How to download this repository
   1. Go to GitHub
