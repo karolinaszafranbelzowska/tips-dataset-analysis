@@ -1,4 +1,4 @@
-!(https://github.com/karolinaszafranbelzowska/tips-dataset-analysis/blob/master/tips.jpg)
+
 
 # The repository is called ***"tips-dataset-analysis"*** and analyze well-known tips dataset.  
 
