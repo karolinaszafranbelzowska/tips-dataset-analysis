@@ -14,7 +14,7 @@ Attribute information:
 4. Smoker: Yes or No,
 5. Day: Monday to Sunday,
 6. Meal: Lunch or Dinner,
-7. and size.
+7. and size of the table.
 
 ## How to download this repository
   1. Go to GitHub
@@ -42,6 +42,7 @@ Matplotlib.pyplot is a collection of command style functions that make matplotli
      import numpy as np
      import pandas as pd
      import matplotlib.pyplot as plt 
+     import seaborn as sns
 
 
 ## What each file contains:
@@ -49,6 +50,8 @@ Matplotlib.pyplot is a collection of command style functions that make matplotli
 1. "tipsdata.csv" contains data in csv format.
 
 2. "tips.dataset with pandas.jpynb" contains a Jupyter notebook where I try to summarize the Data.
+
+3. "tips.jpg" contains file with Photo of TIPS.
 
 ## References
 1. https://help.github.com/en/articles/basic-writing-and-formatting-syntax
@@ -65,7 +68,10 @@ Matplotlib.pyplot is a collection of command style functions that make matplotli
 12. https://towardsdatascience.com
 13. https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
 14. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html
+15. https://www.geeksforgeeks.org/linear-regression-python-implementation/
+16. https://stackoverflow.com/questions/38646040/attributeerror-linearregression-object-has-no-attribute-coef
 15. https://devarea.com/python-machine-learning-example-linear-regression/#.XdWVAdX7SUk
 16. https://ipython-books.github.io/62-creating-statistical-plots-easily-with-seaborn/
 17. https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/
+18. https://medium.com/@julie.yin/understanding-the-data-splitting-functions-in-scikit-learn-9ae4046fbd26
 
