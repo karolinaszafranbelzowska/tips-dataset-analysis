@@ -1,4 +1,4 @@
-
+![TIPS](/sciezka/do/zdjecie.jpg "Opcjonalny tytul")
 
 # The repository is called ***"tips-dataset-analysis"*** and analyze well-known tips dataset.  
 
