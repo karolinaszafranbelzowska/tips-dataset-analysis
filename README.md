@@ -1,3 +1,5 @@
+
+
 # The repository is called ***"tips-dataset-analysis"*** and analyze well-known tips dataset.  
 
 # This repository contains Assessment for the module _Fundamentals of Data Analysis._
@@ -12,7 +14,7 @@ Attribute information:
 2. Tip in $,
 3. Sex of tipper: Female or Male,
 4. Smoker: Yes or No,
-5. Day: Monday to Sunday,
+5. Day: Thursday to Sunday,
 6. Meal: Lunch or Dinner,
 7. and size of the table.
 
