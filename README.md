@@ -76,4 +76,4 @@ Matplotlib.pyplot is a collection of command style functions that make matplotli
 16. https://ipython-books.github.io/62-creating-statistical-plots-easily-with-seaborn/
 17. https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/
 18. https://medium.com/@julie.yin/understanding-the-data-splitting-functions-in-scikit-learn-9ae4046fbd26
-
+19. https://github.com/python-pillow/Pillow/issues/3431
